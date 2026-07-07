@@ -1,0 +1,276 @@
+{
+  "generatedAt": "2026-07-02T16:33:45.194936+00:00",
+  "operationType": "3",
+  "isAirport": true,
+  "use": "Airport service dropdown. For betweenTwoLocations use selected id and searchGeozoneType=Airport, with operationType=3 and isAirport=true.",
+  "count": 38,
+  "stops": [
+    {
+      "id": "6274c4b03ba0f6153861c453",
+      "name": "AC GUARDS",
+      "searchName": "ac guards",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6276033816e075151911610a",
+      "name": "ALKAPURI 'X' RDS",
+      "searchName": "alkapuri 'x' rds",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6274c5928bd08c14f04bec46",
+      "name": "ALLWYN X ROAD",
+      "searchName": "allwyn x road",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62712ce5cc375830b6e526fe",
+      "name": "ARAMGHAR",
+      "searchName": "aramghar",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "63b56015dcba6a0f258c1fd7",
+      "name": "ATTAPUR",
+      "searchName": "attapur",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6400921a34f1311096213b99",
+      "name": "BAHADURPURA",
+      "searchName": "bahadurpura",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "627603f416e075151911610b",
+      "name": "BALAPUR 'X' RDS",
+      "searchName": "balapur 'x' rds",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62713010cc375830b6e5276b",
+      "name": "CARE HOSPITAL-BANJARA HILLS",
+      "searchName": "care hospital-banjara hills",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62b1bde7e3b4f216f4ce0e3a",
+      "name": "FORUM MALL",
+      "searchName": "forum mall",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6274cb7d3ba0f6153861c465",
+      "name": "GACHIBOWLI",
+      "searchName": "gachibowli",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "63bd3b96502eb210236d5598",
+      "name": "HITECH CITY (CYBER TOWERS)",
+      "searchName": "hitech city (cyber towers)",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6364e43331318b131d7ea321",
+      "name": "JBS",
+      "searchName": "jbs",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6275208be8ea4d14c97d0597",
+      "name": "JNTU",
+      "searchName": "jntu",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "63a309069537720f3b4feeb2",
+      "name": "LB NAGAR",
+      "searchName": "lb nagar",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "63c539f7dbd9140feb120c3e",
+      "name": "LINGAMPALLY",
+      "searchName": "lingampally",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "627603bd3ba0f6153861c496",
+      "name": "MANDA MALLAMA 'X' RDS",
+      "searchName": "manda mallama 'x' rds",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6274d332e8ea4d14c97d0577",
+      "name": "MEHDIPATNAM",
+      "searchName": "mehdipatnam",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "628df05511d00d16ec613bae",
+      "name": "MIYAPUR METRO STATION",
+      "searchName": "miyapur metro station",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6275195fd23f1714b32dcc76",
+      "name": "MIYAPUR X ROAD",
+      "searchName": "miyapur x road",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62760306e8ea4d14c97d0599",
+      "name": "NAGOLE X RDS",
+      "searchName": "nagole x rds",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "627600dfd23f1714b32dcc78",
+      "name": "NGRI",
+      "searchName": "ngri",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62b1c5db63c22c16c096f9e6",
+      "name": "NIZAMPET 'X' RDS",
+      "searchName": "nizampet 'x' rds",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62751903e8ea4d14c97d0596",
+      "name": "NMDC",
+      "searchName": "nmdc",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "627604603ba0f6153861c498",
+      "name": "PAHADI SHAREEF",
+      "searchName": "pahadi shareef",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62a84d27b996cd1736cf710f",
+      "name": "PARADISE",
+      "searchName": "paradise",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6274e607d23f1714b32dcc64",
+      "name": "PARYATAK BHAVAN",
+      "searchName": "paryatak bhavan",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6400920329dff513e9087cf4",
+      "name": "PURANAPOOL",
+      "searchName": "puranapool",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "627604323ba0f6153861c497",
+      "name": "RCI X ROADS",
+      "searchName": "rci x roads",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "627519388bd08c14f04bec95",
+      "name": "RGI AIRPORT",
+      "searchName": "rgi airport",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "627516803ba0f6153861c495",
+      "name": "SANGEETH",
+      "searchName": "sangeeth",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6274e6d716e0751519116105",
+      "name": "SECRETARIAT LIC BLDG",
+      "searchName": "secretariat lic bldg",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "63b3ae33a62a131358a7ef71",
+      "name": "SECUNDERABAD",
+      "searchName": "secunderabad",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6274ecaae8ea4d14c97d0591",
+      "name": "SHAMSHABAD",
+      "searchName": "shamshabad",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "63bf9cd6e655eb0f330cdf82",
+      "name": "SHEEP FARM",
+      "searchName": "sheep farm",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "630f80b0672b6c0e6782182a",
+      "name": "TARNAKA",
+      "searchName": "tarnaka",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "62ea3776effff70e8833d458",
+      "name": "TCS DECCAN PARK",
+      "searchName": "tcs deccan park",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "63c93133f945ec0f58380b9e",
+      "name": "UPPAL X ROADS",
+      "searchName": "uppal x roads",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    },
+    {
+      "id": "6274e5b316e07515191160ff",
+      "name": "YATHRINIVAS",
+      "searchName": "yathrinivas",
+      "geozoneType": "stage",
+      "searchGeozoneType": "Airport"
+    }
+  ],
+  "searchGeozoneType": "Airport"
+}

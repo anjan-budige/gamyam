@@ -1,0 +1,1236 @@
+{
+  "generatedAt": "2026-07-02T16:27:31.272910+00:00",
+  "operationType": "2",
+  "city": {
+    "id": "645e035698abeb12e566aaf1",
+    "name": "WARANGAL"
+  },
+  "use": "City-service dropdown. Use selected id/geozoneType with this cityId in betweenTwoLocations.",
+  "count": 204,
+  "stops": [
+    {
+      "id": "63b3ae33a62a131358a7ecf3",
+      "name": "ADALATH",
+      "searchName": "adalath",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2e450b4410b123b269c76",
+      "name": "AKKAMPET-ATMAKUR-WL",
+      "searchName": "akkampet-atmakur-wl",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e996fdd7eb12124371e048",
+      "name": "ALANKAR CIRCLE",
+      "searchName": "alankar circle",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2de74a50fb61232c9302f",
+      "name": "AMARAVATHI NAGAR",
+      "searchName": "amaravathi nagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d0df",
+      "name": "AMBALA-KAMALAPUR",
+      "searchName": "ambala-kamalapur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "658fb739dfc23d120dc58342",
+      "name": "ANANTHASAGAR X ROAD",
+      "searchName": "ananthasagar x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e303784c0afd12149d2e6d",
+      "name": "ANANTHASAGAR-HASANPARTHY",
+      "searchName": "ananthasagar-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63b3ae33a62a131358a7ed04",
+      "name": "AREPALLY HANAMKONDA",
+      "searchName": "arepally hanamkonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e309c2b4410b123b26af9a",
+      "name": "AREPALLY-ELKATHURTHI",
+      "searchName": "arepally-elkathurthi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e306334c0afd12149d2ec1",
+      "name": "ARVAPALLE-HASANPARTHY",
+      "searchName": "arvapalle-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "67581aeaa141671030b1aa17",
+      "name": "ASHOKA COMPLEX",
+      "searchName": "ashoka complex",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d777f64ad71239264df6",
+      "name": "ASIAN SRIDEVI MALL",
+      "searchName": "asian sridevi mall",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1cd7ebba36212163826c0",
+      "name": "AYODYA PURAM",
+      "searchName": "ayodya puram",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2dfaf4c0afd12149d0f1c",
+      "name": "AYYAPPA TEMPLE-AREPALLY",
+      "searchName": "ayyappa temple-arepally",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e303114c0afd12149d2e6c",
+      "name": "BAIRANPALLY-HASANPARTHY",
+      "searchName": "bairanpally-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2cac805895312420c49e0",
+      "name": "BALAJI NAGAR-HANMAKONDA",
+      "searchName": "balaji nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63c67b948e49c90ffed2f8f8",
+      "name": "BALASAMUDARAM",
+      "searchName": "balasamudaram",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63ca339747fe660f48a6e509",
+      "name": "BANDAMPALLY-ATMAKUR-WL",
+      "searchName": "bandampally-atmakur-wl",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccf5",
+      "name": "BAOPET X RD",
+      "searchName": "baopet x rd",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2b792f1b51412214215ba",
+      "name": "BAPUJI NAGAR-HANMAKONDA",
+      "searchName": "bapuji nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cc0a",
+      "name": "BAVUPET",
+      "searchName": "bavupet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c6e5dac0ca0e923a5e3e",
+      "name": "BHATTUPALLE-HANMAKONDA",
+      "searchName": "bhattupalle-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d0eb",
+      "name": "BHAVANI NAGAR-HANMAKONDA",
+      "searchName": "bhavani nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63c677871215870f2bf1ed01",
+      "name": "BHAWANI THEATRE-PARKAL",
+      "searchName": "bhawani theatre-parkal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "656583d25a322813ce593d7b",
+      "name": "BHEEMARAM-HASANPARTHY",
+      "searchName": "bheemaram-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccfb",
+      "name": "BOLLIKUNTA X ROAD",
+      "searchName": "bollikunta x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1bdb8bba3621216380dce",
+      "name": "BOLLIKUNTA-SANGEM",
+      "searchName": "bollikunta-sangem",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2ef6fa50fb61232c9383f",
+      "name": "BORING OFFICE",
+      "searchName": "boring office",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2bf424ab0661212d7235c",
+      "name": "CALVARY TEMPLE-WARANGAL",
+      "searchName": "calvary temple-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1bcca68e9ae126eda7202",
+      "name": "CHENNARAM-WARDANNAPET",
+      "searchName": "chennaram-wardannapet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "658fb739dfc23d120dc58341",
+      "name": "CHINTAGATTU CANAL",
+      "searchName": "chintagattu canal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65c9d650f4710b12e830d83c",
+      "name": "CHINTALAPALLE-ELKATHURTHI",
+      "searchName": "chintalapalle-elkathurthi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccd7",
+      "name": "CHINTHAKUNTA X ROAD-KHILA WARANGAL",
+      "searchName": "chinthakunta x road-khila warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f7ea6a295a3d124d04ad5b",
+      "name": "CHINTHALA TANDA-BHEEMADEVARAPALLY",
+      "searchName": "chinthala tanda-bheemadevarapally",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cccf",
+      "name": "CHOUTAPALLE",
+      "searchName": "choutapalle",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2f33ef1b51412214234ff",
+      "name": "DABBAL-HANMAKONDA",
+      "searchName": "dabbal-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d0a1",
+      "name": "DAMERA X RD",
+      "searchName": "damera x rd",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65ab8b34d6ccd61333918250",
+      "name": "DAMERA-ATMAKUR-WL",
+      "searchName": "damera-atmakur-wl",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "658fb9d2d2bfd2124943eaed",
+      "name": "DAMERA-ELKATHURTHI",
+      "searchName": "damera-elkathurthi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2fff1a50fb61232c949eb",
+      "name": "DEVANNAPETA",
+      "searchName": "devannapeta",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccda",
+      "name": "DEVUNOOR-DHARMASAGAR",
+      "searchName": "devunoor-dharmasagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d167",
+      "name": "DHARMARAM-GEESKONDA",
+      "searchName": "dharmaram-geeskonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2ca634ab0661212d7235d",
+      "name": "DHARMASAGAR-WARANGAL",
+      "searchName": "dharmasagar-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2b719b4410b123b2685aa",
+      "name": "DIESEL COLONY",
+      "searchName": "diesel colony",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d9c105895312420c500c",
+      "name": "DREAMLAND FUNCTION HALL",
+      "searchName": "dreamland function hall",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63b3ae33a62a131358a7ed68",
+      "name": "ELKATHURTHY",
+      "searchName": "elkathurthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63c678638e49c90ffed2f8f5",
+      "name": "FATHIMA NAGAR-HANMAKONDA",
+      "searchName": "fathima nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd27",
+      "name": "GATLAKANIPARTHI X ROAD",
+      "searchName": "gatlakaniparthi x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904de4",
+      "name": "GATLAKANIPARTHY",
+      "searchName": "gatlakaniparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e998373d6ca6122659fb9a",
+      "name": "GOKUL NAGAR JUNCTION",
+      "searchName": "gokul nagar junction",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2e22bb4410b123b26964c",
+      "name": "GOPAL RAO BUILDING",
+      "searchName": "gopal rao building",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2f0414c0afd12149d2124",
+      "name": "GOPALPUR-HANMAKONDA",
+      "searchName": "gopalpur-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2f8de05895312420c5b3d",
+      "name": "GUNDLA SINGARAM-HANMAKONDA",
+      "searchName": "gundla singaram-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c69c2519be12682a87f1",
+      "name": "GUNDLASAGAR",
+      "searchName": "gundlasagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd1f",
+      "name": "GUNTUR PALLY",
+      "searchName": "guntur pally",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "649aacb314a4a80f43191efd",
+      "name": "HANUMAKONDA BUS STATION",
+      "searchName": "hanumakonda bus station",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63b3ae33a62a131358a7ed8f",
+      "name": "HASANPARTHY",
+      "searchName": "hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2c331b4410b123b268b87",
+      "name": "HOTEL RAJ",
+      "searchName": "hotel raj",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd3b",
+      "name": "INOLE-INAVOLU",
+      "searchName": "inole-inavolu",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63d4c47a17c46b0f387fa7a1",
+      "name": "JAGRUTI COLONY-HANMAKONDA",
+      "searchName": "jagruti colony-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e30197f1b5141221423ecb",
+      "name": "JAIGIRI",
+      "searchName": "jaigiri",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63d75f2217c46b0f387fa7a7",
+      "name": "JAMMIKUNTA X RD",
+      "searchName": "jammikunta x rd",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0a1366d912d945c721",
+      "name": "JANAKIPUR",
+      "searchName": "janakipur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2db524ab0661212d724f9",
+      "name": "JAWAHAR COLONY",
+      "searchName": "jawahar colony",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904ddf",
+      "name": "JOHN PEERULU",
+      "searchName": "john peerulu",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63d4c51a69ae390f30365416",
+      "name": "JULYWADA",
+      "searchName": "julywada",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1cddaba02a1123f731747",
+      "name": "KADIPIKONDA",
+      "searchName": "kadipikonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2cb714ab0661212d7235e",
+      "name": "KAKATIYA MEDICAL COLLEGE",
+      "searchName": "kakatiya medical college",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2c233f64ad712392642e2",
+      "name": "KAKATIYA ZOO PARK",
+      "searchName": "kakatiya zoo park",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd14",
+      "name": "KAKIRALAPALLY X ROAD",
+      "searchName": "kakiralapally x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d071",
+      "name": "KAKKIRALAPALLY X RD",
+      "searchName": "kakkiralapally x rd",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "658fb9d2d2bfd2124943eb0a",
+      "name": "KAMALAPURAM-WARANGAL",
+      "searchName": "kamalapuram-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d95db4410b123b2691dc",
+      "name": "KAMMARIPETA-DHARMASAGAR",
+      "searchName": "kammaripeta-dharmasagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d04b",
+      "name": "KANIPARTHI",
+      "searchName": "kaniparthi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d0a9",
+      "name": "KANTATHMAKUR",
+      "searchName": "kantathmakur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63ca834ecb39ea1028ad4df3",
+      "name": "KASHIBUGGA",
+      "searchName": "kashibugga",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c013bba3621216380dcf",
+      "name": "KATREPALE HAVELI",
+      "searchName": "katrepale haveli",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63bfecc159bad70f2a8be04a",
+      "name": "KAZIPET RAILWAY STATION",
+      "searchName": "kazipet railway station",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e30958f64ad712392670b2",
+      "name": "KESHAVAPUR-ELKATHURTHI",
+      "searchName": "keshavapur-elkathurthi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63be9846bf22ce1027c05552",
+      "name": "KISHAN PURA",
+      "searchName": "kishan pura",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e306a3a50fb61232c94ecf",
+      "name": "KOGILVAI",
+      "searchName": "kogilvai",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63d0c6bf94ffa90f24da759e",
+      "name": "KOKALGUDUR",
+      "searchName": "kokalgudur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2f722b4410b123b26a10c",
+      "name": "KOMATIPALLI-HANMAKONDA",
+      "searchName": "komatipalli-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc091366d912d945c3cf",
+      "name": "KOMMUGUTTA",
+      "searchName": "kommugutta",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c0bcbba3621216380e7b",
+      "name": "KONDAPARTHY-HANMAKONDA",
+      "searchName": "kondaparthy-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d097",
+      "name": "KONKAPAKA",
+      "searchName": "konkapaka",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904ddc",
+      "name": "KONKAPAKA X ROAD",
+      "searchName": "konkapaka x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d09e",
+      "name": "KOTAGANDI",
+      "searchName": "kotagandi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c3e19da59f0e251d1b34",
+      "name": "KOTHAPALLE H",
+      "searchName": "kothapalle h",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904de1",
+      "name": "KOTHAWADA",
+      "searchName": "kothawada",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2f4bfa50fb61232c93c7f",
+      "name": "KU 1ST GATE",
+      "searchName": "ku 1st gate",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f7eac0cf1c910e3093e0d2",
+      "name": "KU ENGINEERING COLLEGE-HANUMAKONDA",
+      "searchName": "ku engineering college-hanumakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccc3",
+      "name": "KUNOOR-ZAFARGHAD",
+      "searchName": "kunoor-zafarghad",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1bfce9da59f0e251d0d5a",
+      "name": "KUNTAPALLY-SANGEM",
+      "searchName": "kuntapally-sangem",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc091366d912d945c3d2",
+      "name": "KYATHAMPALLE",
+      "searchName": "kyathampalle",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd16",
+      "name": "LADELLA",
+      "searchName": "ladella",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904de2",
+      "name": "LAXMI TALKIES",
+      "searchName": "laxmi talkies",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d155",
+      "name": "LAXMIPURAM-DUGGONDI",
+      "searchName": "laxmipuram-duggondi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2f877a50fb61232c940c1",
+      "name": "LINGAMADUGUPALLY",
+      "searchName": "lingamadugupally",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63c67159a782de0f59bd12b0",
+      "name": "MADIKONDA CHOWRASTA",
+      "searchName": "madikonda chowrasta",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1cef268e9ae126eda9724",
+      "name": "MADIKONDA-HANMAKONDA",
+      "searchName": "madikonda-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6503f63cede7520f9684cbe9",
+      "name": "MADIPALLE-HASANPARTHY",
+      "searchName": "madipalle-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccbb",
+      "name": "MALLAKKAPALLI",
+      "searchName": "mallakkapalli",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e30a69f1b51412214243cf",
+      "name": "MALLAREDDIPALLE-HASANPARTHY",
+      "searchName": "mallareddipalle-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc091366d912d945c3d4",
+      "name": "MALLIKUDURLA",
+      "searchName": "mallikudurla",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccca",
+      "name": "MAMNOOR",
+      "searchName": "mamnoor",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e9936f185c441224bd233c",
+      "name": "MANDI BAZAR-HANMAKONDA",
+      "searchName": "mandi bazar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63b3ae33a62a131358a7eb9b",
+      "name": "MGM HOSPITAL",
+      "searchName": "mgm hospital",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f7f45b295a3d124d04b55f",
+      "name": "MILLENNIUM HIGH SCHOOL",
+      "searchName": "millennium high school",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d7f44ab0661212d724f8",
+      "name": "MOGILICHERLA-GEESKONDA",
+      "searchName": "mogilicherla-geeskonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f800d5295a3d124d04c13a",
+      "name": "MUCHERLA NAGARAM",
+      "searchName": "mucherla nagaram",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f7d798eaab0c0e240e161b",
+      "name": "MULA TANDA-WARDANNAPET",
+      "searchName": "mula tanda-wardannapet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63b3ae33a62a131358a7ebae",
+      "name": "MULUGU X ROAD",
+      "searchName": "mulugu x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cce6",
+      "name": "MUPPARAM-DHARMASAGAR",
+      "searchName": "mupparam-dharmasagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "658fb9d2d2bfd2124943eace",
+      "name": "NADIKUDA-PARKAL",
+      "searchName": "nadikuda-parkal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d069",
+      "name": "NAGARAM-HASANPARTHY",
+      "searchName": "nagaram-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63c67b058e49c90ffed2f8f7",
+      "name": "NAKKALA GUTTA-HANMAKONDA",
+      "searchName": "nakkala gutta-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d0ec",
+      "name": "NALLABELLE-WARDANNAPET",
+      "searchName": "nallabelle-wardannapet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cce5",
+      "name": "NARAYANAGIRI",
+      "searchName": "narayanagiri",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2bfa5f1b51412214215bc",
+      "name": "NATURE CURE HOSPITAL",
+      "searchName": "nature cure hospital",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e99f5335c69d1223167f52",
+      "name": "NGO'S COLONY-HANMAKONDA",
+      "searchName": "ngo's colony-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63be98807d719a10027e8ee5",
+      "name": "NIT COLLEGE",
+      "searchName": "nit college",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e3002a05895312420c6270",
+      "name": "PALVELPULA",
+      "searchName": "palvelpula",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd3e",
+      "name": "PANGIDIPALLY-KAMALAPUR",
+      "searchName": "pangidipally-kamalapur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cc31",
+      "name": "PANTHINI",
+      "searchName": "panthini",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63b3ae33a62a131358a7ee71",
+      "name": "PEDDAMM GADDA HANAMKONDA",
+      "searchName": "peddamm gadda hanamkonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccbe",
+      "name": "PEDDAPENDYALA-CHILPUR",
+      "searchName": "peddapendyala-chilpur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2faf7f1b5141221423bc1",
+      "name": "PEDDAPUR-ATMAKUR-WL",
+      "searchName": "peddapur-atmakur-wl",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd57",
+      "name": "PEECHARA-VELAIR",
+      "searchName": "peechara-velair",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cce0",
+      "name": "PEESARA X ROAD",
+      "searchName": "peesara x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e3014aa50fb61232c94b18",
+      "name": "PEGADAPALLE-HASANPARTHY",
+      "searchName": "pegadapalle-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d0e9",
+      "name": "PEMBARTHY-HASANPARTHY",
+      "searchName": "pembarthy-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904dde",
+      "name": "PETROLPUMP",
+      "searchName": "petrolpump",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e99427185c441224bd233d",
+      "name": "POCHAM MAIDAN",
+      "searchName": "pocham maidan",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65ab8b34d6ccd6133391826b",
+      "name": "POCHARAM-PARKAL",
+      "searchName": "pocharam-parkal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2c2b24c0afd12149cfbb4",
+      "name": "PRASANTH NAGAR-WARANGAL",
+      "searchName": "prasanth nagar-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904de3",
+      "name": "PULKURTHI",
+      "searchName": "pulkurthi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd28",
+      "name": "PULKURTHY X ROAD",
+      "searchName": "pulkurthy x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d06e",
+      "name": "PUNNELU",
+      "searchName": "punnelu",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccc2",
+      "name": "RAGUNATHPALLY-ZAFFERGADH",
+      "searchName": "ragunathpally-zaffergadh",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63c672e0a782de0f59bd12b1",
+      "name": "RAHMATH NAGAR-HANMAKONDA",
+      "searchName": "rahmath nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2bb6fa50fb61232c91b16",
+      "name": "RAILWAY GATE-WARANGAL",
+      "searchName": "railway gate-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccc9",
+      "name": "RAJIVGRUHA KALPA-KHAZIPET",
+      "searchName": "rajivgruha kalpa-khazipet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e30caaa50fb61232c953a2",
+      "name": "RAMAKRISHNAPUR-PARKAL",
+      "searchName": "ramakrishnapur-parkal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccc6",
+      "name": "RAMPET-KAZIPET",
+      "searchName": "rampet-kazipet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccea",
+      "name": "RAMPUR X ROAD-BHEEMINI",
+      "searchName": "rampur x road-bheemini",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c245ba02a1123f730f4d",
+      "name": "RAMPUR-DHARMASAGAR",
+      "searchName": "rampur-dharmasagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "659f8cad6710700e8a904ddd",
+      "name": "RANGASAIPET",
+      "searchName": "rangasaipet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e3008b4ab0661212d731f3",
+      "name": "RARARAM-HANMAKONDA",
+      "searchName": "rararam-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2e1d94ab0661212d72547",
+      "name": "REDDY COLONY-HANMAKONDA",
+      "searchName": "reddy colony-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d0324c0afd12149d00d5",
+      "name": "REDDY PALEM-HANMAKONDA",
+      "searchName": "reddy palem-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc091366d912d945c3d1",
+      "name": "SAIPET-DHRAMASAGAR",
+      "searchName": "saipet-dhramasagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2e6484c0afd12149d1441",
+      "name": "SAMMAIAH NAGAR",
+      "searchName": "sammaiah nagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d12e",
+      "name": "SANGEM-WARANGAL",
+      "searchName": "sangem-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2bbfbf64ad712392642e1",
+      "name": "SANTHOSHI MATHA TEMPLE-WARANGAL",
+      "searchName": "santhoshi matha temple-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2f092b4410b123b26a00f",
+      "name": "SARASWATHI NAGAR-HANMAKONDA",
+      "searchName": "saraswathi nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c116bba3621216380e7c",
+      "name": "SAYAMPET-HANMAKONDA",
+      "searchName": "sayampet-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd23",
+      "name": "SEETHAMPET",
+      "searchName": "seethampet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccdd",
+      "name": "SEETHAMPET X ROAD",
+      "searchName": "seethampet x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e302014ab0661212d733a5",
+      "name": "SEETHANAGARAM-HASANPARTHY",
+      "searchName": "seethanagaram-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "663602a410e5d81256b87854",
+      "name": "SHALAPALLY",
+      "searchName": "shalapally",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d06b",
+      "name": "SHAMBHUNIPET",
+      "searchName": "shambhunipet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccf8",
+      "name": "SHAMBUNIPALLI",
+      "searchName": "shambunipalli",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63bd3d2c2ce4df102e7840ff",
+      "name": "SHIVA NAGAR-WARANGAL",
+      "searchName": "shiva nagar-warangal",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d14cf64ad71239264a85",
+      "name": "SHIVALAYAM-WADDEPALLE",
+      "searchName": "shivalayam-waddepalle",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e3058f05895312420c6a38",
+      "name": "SIDDHAPUR-HASANPARTHY",
+      "searchName": "siddhapur-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d64ab4410b123b2691db",
+      "name": "SNEHA NAGAR-HANMAKONDA",
+      "searchName": "sneha nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc091366d912d945c3d5",
+      "name": "SODESHAPALLE",
+      "searchName": "sodeshapalle",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccdb",
+      "name": "SOMADEVARAPALLY",
+      "searchName": "somadevarapally",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d06a",
+      "name": "SOMIDI",
+      "searchName": "somidi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f80ab7cf1c910e3093f2ad",
+      "name": "SRI RAMULAPALLY-KAMALAPUR",
+      "searchName": "sri ramulapally-kamalapur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2dd094ab0661212d724fa",
+      "name": "SRI VENKATESHWARA TEMPLE WADDEPALLE",
+      "searchName": "sri venkateshwara temple waddepalle",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c30e2519be12682a7ff4",
+      "name": "STAMBAMPALLE",
+      "searchName": "stambampalle",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "662658223b5c9812298ecb91",
+      "name": "SUBEDARI",
+      "searchName": "subedari",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f805a6e957cb125bd603fe",
+      "name": "SUDANPALLE-KURAVI",
+      "searchName": "sudanpalle-kuravi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccd9",
+      "name": "TEKULAGUDEM X ROAD",
+      "searchName": "tekulagudem x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd0a",
+      "name": "TEKULAGUDEM-DHARMASAGAR",
+      "searchName": "tekulagudem-dharmasagar",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccc0",
+      "name": "THARALAPALLY",
+      "searchName": "tharalapally",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d06d",
+      "name": "THIMMAPUR X ROAD",
+      "searchName": "thimmapur x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e30a0805895312420c6ea4",
+      "name": "THIMMAPUR-ELKATHURTHI",
+      "searchName": "thimmapur-elkathurthi",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "662b8c871554730ef742cce8",
+      "name": "THOUSAND PILLAR TEMPLE",
+      "searchName": "thousand pillar temple",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2badef1b51412214215bb",
+      "name": "UNDER BRIDGE",
+      "searchName": "under bridge",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65f7e201eaab0c0e240e19dd",
+      "name": "UNIVERSITY ARTS AND SCIENCE COLLEGE",
+      "searchName": "university arts and science college",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccfc",
+      "name": "UPPAL-KAMALAPUR",
+      "searchName": "uppal-kamalapur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d13b",
+      "name": "UPPARAPALLE-WARDANNAPET",
+      "searchName": "upparapalle-wardannapet",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cec0",
+      "name": "UPPARAPALLY X ROAD",
+      "searchName": "upparapally x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccb5",
+      "name": "VANAMALAKANAPARTHI-INAVOLU",
+      "searchName": "vanamalakanaparthi-inavolu",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d09d",
+      "name": "VANCHANGIRI",
+      "searchName": "vanchangiri",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccbc",
+      "name": "VANGALAPALLY-CHILPUR",
+      "searchName": "vangalapally-chilpur",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e300e005895312420c6408",
+      "name": "VANGAPAHAD",
+      "searchName": "vangapahad",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c1d6ba02a1123f730ea1",
+      "name": "VASANTHAPUR-GEESKONDA",
+      "searchName": "vasanthapur-geeskonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cce2",
+      "name": "VELAIR",
+      "searchName": "velair",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccb6",
+      "name": "VENKATAPUR X ROAD",
+      "searchName": "venkatapur x road",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65ab8b34d6ccd6133391826f",
+      "name": "VENKATAPUR-ATMAKUR-WL",
+      "searchName": "venkatapur-atmakur-wl",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945cd29",
+      "name": "VENKATAPUR-SANGEM",
+      "searchName": "venkatapur-sangem",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "658fc9e159a7ba125baeb39b",
+      "name": "VENKATAPUR-ZAFARGHAD",
+      "searchName": "venkatapur-zafarghad",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2d724a50fb61232c9269d",
+      "name": "VIKAS NAGAR-HANMAKONDA",
+      "searchName": "vikas nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d127",
+      "name": "WADDEPALLE-HANMAKONDA",
+      "searchName": "waddepalle-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "649ab33ab6460812bed342ae",
+      "name": "WARANGAL BUS STATION",
+      "searchName": "warangal bus station",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e1c35edac0ca0e923a555b",
+      "name": "WARANGAL FORT",
+      "searchName": "warangal fort",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "65e2dee4f1b5141221422bfa",
+      "name": "YADAV NAGAR-HANMAKONDA",
+      "searchName": "yadav nagar-hanmakonda",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "64febc0b1366d912d945ccd1",
+      "name": "YELLAPUR-HASANPARTHY",
+      "searchName": "yellapur-hasanparthy",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "6593c614c87e5c0ddaa4d067",
+      "name": "YERAGATTU GUTTA",
+      "searchName": "yeragattu gutta",
+      "geozoneType": "stage"
+    },
+    {
+      "id": "63cb8efef945ec0f58380bc4",
+      "name": "YESWANTHAPUR",
+      "searchName": "yeswanthapur",
+      "geozoneType": "stage"
+    }
+  ]
+}

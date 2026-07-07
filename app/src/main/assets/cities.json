@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-02T16:27:31.272910+00:00",
+  "count": 7,
+  "cities": [
+    {
+      "id": "6450ab6d00fe5d13f60a71d4",
+      "name": "HYDERABAD"
+    },
+    {
+      "id": "645e033a98abeb12e566aaef",
+      "name": "KHAMMAM"
+    },
+    {
+      "id": "645e034998abeb12e566aaf0",
+      "name": "KARIMNAGAR"
+    },
+    {
+      "id": "645e035698abeb12e566aaf1",
+      "name": "WARANGAL"
+    },
+    {
+      "id": "64a40e8b63e2480f618f3f8b",
+      "name": "MAHBUBNAGAR"
+    },
+    {
+      "id": "64a40e98e815b10f50990248",
+      "name": "NALGONDA"
+    },
+    {
+      "id": "6863705c0a6a860c415f15db",
+      "name": "ADILABAD"
+    }
+  ]
+}

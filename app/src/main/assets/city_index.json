@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-07-02T16:27:31.272910+00:00",
+  "operationType": "2",
+  "use": "Select a city first, then load its city_<name>_<id>_stops.json file.",
+  "count": 7,
+  "cities": [
+    {
+      "id": "6450ab6d00fe5d13f60a71d4",
+      "name": "HYDERABAD",
+      "count": 2500,
+      "file": "city_hyderabad_6450ab6d00fe5d13f60a71d4_stops.json"
+    },
+    {
+      "id": "645e033a98abeb12e566aaef",
+      "name": "KHAMMAM",
+      "count": 0,
+      "file": "city_khammam_645e033a98abeb12e566aaef_stops.json"
+    },
+    {
+      "id": "645e034998abeb12e566aaf0",
+      "name": "KARIMNAGAR",
+      "count": 0,
+      "file": "city_karimnagar_645e034998abeb12e566aaf0_stops.json"
+    },
+    {
+      "id": "645e035698abeb12e566aaf1",
+      "name": "WARANGAL",
+      "count": 204,
+      "file": "city_warangal_645e035698abeb12e566aaf1_stops.json"
+    },
+    {
+      "id": "64a40e8b63e2480f618f3f8b",
+      "name": "MAHBUBNAGAR",
+      "count": 0,
+      "file": "city_mahbubnagar_64a40e8b63e2480f618f3f8b_stops.json"
+    },
+    {
+      "id": "64a40e98e815b10f50990248",
+      "name": "NALGONDA",
+      "count": 0,
+      "file": "city_nalgonda_64a40e98e815b10f50990248_stops.json"
+    },
+    {
+      "id": "6863705c0a6a860c415f15db",
+      "name": "ADILABAD",
+      "count": 0,
+      "file": "city_adilabad_6863705c0a6a860c415f15db_stops.json"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-07-02T16:27:31.272910+00:00",
+  "operationType": "2",
+  "city": {
+    "id": "64a40e8b63e2480f618f3f8b",
+    "name": "MAHBUBNAGAR"
+  },
+  "use": "City-service dropdown. Use selected id/geozoneType with this cityId in betweenTwoLocations.",
+  "count": 0,
+  "stops": []
+}
