@@ -106,7 +106,14 @@ Your location is used only to fetch nearby stops and isn't stored or shared beyo
 ## 📥 Download
 
 **App:** <https://github.com/anjan-budige/gamyam>
+
 **APK (direct):** <https://github.com/anjan-budige/gamyam/raw/main/gamyam.apk>
+
+<div align="center">
+<a href="https://github.com/anjan-budige/gamyam/raw/main/gamyam.apk">
+  <img src="https://img.shields.io/badge/⬇%20Download-APK-1448A6?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+</a>
+</div>
 
 ## 🔨 Build from source
 
